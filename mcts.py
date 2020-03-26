@@ -1,4 +1,3 @@
-# https://medium.com/@arnavparuthi/playing-ultimate-tic-tac-toe-using-reinforcement-learning-892f084f7def
 import numpy as np
 
 class MCTS:
